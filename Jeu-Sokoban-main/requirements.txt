@@ -1,0 +1,5 @@
+# Depuis votre projet local, générez requirements.txt :
+poetry export -f requirements.txt --output requirements.txt
+
+# Ou si poetry export ne marche pas :
+pip freeze > requirements.txt
