@@ -7,16 +7,13 @@ Un jeu de réflexion classique **Sokoban** développé en Python avec une interf
 ## 📸 Aperçu
 
 ### Écran de sélection du joueur
-![Sélection joueur](screenshots/screen4.png)
-
+![Sélection joueur](Jeu-Sokoban-main/screenshots/screen4.png)
 ### Niveau 1 — Départ
-![Niveau 1](screenshots/screen1.png)
-
+![Niveau 1](Jeu-Sokoban-main/screenshots/screen1.png)
 ### Niveau 2 — En cours de résolution
-![Niveau 2](screenshots/screen2.png)
-
+![Niveau 2](Jeu-Sokoban-main/screenshots/screen2.png)
 ### Niveau résolu ✔
-![Niveau résolu](screenshots/screen3.png)
+![Niveau résolu](Jeu-Sokoban-main/screenshots/screen3.png)
 
 ---
 
